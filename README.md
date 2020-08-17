@@ -22,6 +22,6 @@ Next the data was converted to a processable form.
 First a **correlation matrix** was obtained for the data. This was analysed and the inference was noted. Some variables had very strong correlation. These variables have not been dropped, but can be dropped based on the nature of analysis.
 
 Next, to analyse the relation between *Production* and *Duration of Operation* of the plants, a scatter plot was generated using the `seaborn` library between production in each of the years for which data was available and the duration of operation of the plant.
-This led to insights on the effect of production during the recession years (2008-09) and some other interesting observations.
+This led to insights on the effect of production during the recession years (2008-09) and some interesting observations.
   
   
