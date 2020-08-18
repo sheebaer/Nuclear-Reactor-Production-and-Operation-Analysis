@@ -1,13 +1,13 @@
 # Nuclear-Reactor-Production-and-Operation-Analysis-
 
 This is an analysis of data on Nuclear Reactors in USA. 
-The data was taken from [data.gov][1].
+The data was taken from [data.gov][1]
 
 [1]: https://www.data.gov/
 
 ## Objective
 
-The aim is to analyse the said data and see if there are any interesting relations between the production of nuclear reactor plants in the years for which data is available and the duration of operation of the plants.
+The aim is to analyse the said data and see if there is any interesting relationship between the production and duration of operation of nuclear power plants in the years for which data is available. Since data is available for 2008 and 2009, the effect of the recession on production in these years is also analysed.
 
 ## Data Preprocessing
 
